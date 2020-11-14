@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/dulcesmigajas/static/css/main.52e38d9d.chunk.css",
-    "main.js": "/dulcesmigajas/static/js/main.65724529.chunk.js",
-    "main.js.map": "/dulcesmigajas/static/js/main.65724529.chunk.js.map",
+    "main.js": "/dulcesmigajas/static/js/main.cefa6091.chunk.js",
+    "main.js.map": "/dulcesmigajas/static/js/main.cefa6091.chunk.js.map",
     "runtime-main.js": "/dulcesmigajas/static/js/runtime-main.87d24a91.js",
     "runtime-main.js.map": "/dulcesmigajas/static/js/runtime-main.87d24a91.js.map",
-    "static/js/2.86b1f3b8.chunk.js": "/dulcesmigajas/static/js/2.86b1f3b8.chunk.js",
-    "static/js/2.86b1f3b8.chunk.js.map": "/dulcesmigajas/static/js/2.86b1f3b8.chunk.js.map",
+    "static/js/2.2f7b8cc2.chunk.js": "/dulcesmigajas/static/js/2.2f7b8cc2.chunk.js",
+    "static/js/2.2f7b8cc2.chunk.js.map": "/dulcesmigajas/static/js/2.2f7b8cc2.chunk.js.map",
     "index.html": "/dulcesmigajas/index.html",
     "static/css/main.52e38d9d.chunk.css.map": "/dulcesmigajas/static/css/main.52e38d9d.chunk.css.map",
-    "static/js/2.86b1f3b8.chunk.js.LICENSE.txt": "/dulcesmigajas/static/js/2.86b1f3b8.chunk.js.LICENSE.txt",
+    "static/js/2.2f7b8cc2.chunk.js.LICENSE.txt": "/dulcesmigajas/static/js/2.2f7b8cc2.chunk.js.LICENSE.txt",
     "static/media/App.css": "/dulcesmigajas/static/media/AXIS_Extra_Bold_800.95bd71da.otf",
     "static/media/ClienteHeader.css": "/dulcesmigajas/static/media/fondo-header.1c4daf08.jpg",
     "static/media/ClienteIndexScreen.css": "/dulcesmigajas/static/media/fondo_ofertas_dia_transparente.37c64b44.png",
@@ -17,8 +17,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.87d24a91.js",
-    "static/js/2.86b1f3b8.chunk.js",
+    "static/js/2.2f7b8cc2.chunk.js",
     "static/css/main.52e38d9d.chunk.css",
-    "static/js/main.65724529.chunk.js"
+    "static/js/main.cefa6091.chunk.js"
   ]
 }
